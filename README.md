@@ -1,2 +1,3 @@
 1. 파일을 ZIP 형식으로 다운.
 2. 압축을 풀어 유니티 허브 내의 프로젝트 항목에 Add 클릭 후 압축을 푼 파일을 추가하여 프로젝트를 생성.
+Itch.io Link: https://iamkanothx.itch.io/phasedive - 비번은 과제 국룰 비번
